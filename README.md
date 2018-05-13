@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data-week-4
 Create a tidy data set
 
-In the "run_analysis.R" there is the code to create the tidy data set "my_analysis.txt", starting from the assigned data:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+In the "run_analysis.R" there is the code to create the tidy data set "my_analysis.txt" (whose variables descripions are in the file "Code book.md"), starting from the assigned data:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The steps you can find in the "run_analysis.R" are the following:
 
